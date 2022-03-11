@@ -10,5 +10,9 @@
     {
         "id": 3,
         "name" : "Este post es para heroku"
+    },
+    {
+        "id": 4,
+        "name" : "Este post es para heroku v2"
     }
 ]
