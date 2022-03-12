@@ -2,7 +2,7 @@
     "result": [
         {
             "id": 1,
-            "question": "Como se llama la variante del covid-19 que combina delta y omicrón?",
+            "question": "Como se llama la variante del covid-19 que combina delta y ómicron?",
             "option_one": "Omicron Alfa",
             "option_two": "Deltacron",
             "option_three": "Variante Z",
@@ -12,12 +12,32 @@
         },
         {
             "id": 2,
-            "question": "Si tengo 5 manzanas y me como 3 cuantas me quedan?",
-            "option_one": "Cinco",
-            "option_two": "Cuantro",
-            "option_three": "Tres",
-            "option_four": "Dos",
+            "question": "Como se llama el nuevo presidente de Chile?",
+            "option_one": "Gabriel Boric",
+            "option_two": "Orlando Pepas",
+            "option_three": "Gustavo Petro",
+            "option_four": "José Antonio Kast",
+            "correct_option": 1
+           
+        },
+         {
+            "id": 3,
+            "question": "Con que país Andres Manuel López Obrador quiere suspender relaciones?",
+            "option_one": "Cuba",
+            "option_two": "Francia",
+            "option_three": "EE.UU",
+            "option_four": "España",
             "correct_option": 4
+           
+        },
+        {
+            "id": 4,
+            "question": "Que expresidente del Perú mando a esterilizar forzadamente a las mujeres?",
+            "option_one": "Martín Vizcarra",
+            "option_two": "Alberto Kenya Fujimori Inomoto",
+            "option_three": "Juan Velasco Alvarado",
+            "option_four": "Augusto B. Leguía",
+            "correct_option": 2
            
         }
     ]
