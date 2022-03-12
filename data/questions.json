@@ -1,0 +1,24 @@
+{
+    "result": [
+        {
+            "id": 1,
+            "question": "Como tambien se le conoce a la suma?",
+            "option_one": "Sustracción",
+            "option_two": "Resto",
+            "option_three": "Adición",
+            "option_four": "Dividendo",
+            "correct_option": 3
+           
+        },
+        {
+            "id": 2,
+            "question": "Si tengo 5 manzanas y me como 3 cuantas me quedan?",
+            "option_one": "Cinco",
+            "option_two": "Cuantro",
+            "option_three": "Tres",
+            "option_four": "Dos",
+            "correct_option": 4
+           
+        }
+    ]
+}

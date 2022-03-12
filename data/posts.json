@@ -6,13 +6,5 @@
     {
         "id": 2,
         "name" : "Como crear una base de datos"
-    },
-    {
-        "id": 3,
-        "name" : "Este post es para heroku"
-    },
-    {
-        "id": 4,
-        "name" : "Este post es para heroku v2"
     }
 ]
