@@ -2,12 +2,12 @@
     "result": [
         {
             "id": 1,
-            "question": "Como tambien se le conoce a la suma?",
-            "option_one": "Sustracción",
-            "option_two": "Resto",
-            "option_three": "Adición",
-            "option_four": "Dividendo",
-            "correct_option": 3
+            "question": "Como se llama la variante del covid-19 que combina delta y omicrón?",
+            "option_one": "Omicron Alfa",
+            "option_two": "Deltacron",
+            "option_three": "Variante Z",
+            "option_four": "Deltaron",
+            "correct_option": 2
            
         },
         {
