@@ -2,12 +2,12 @@
     "result": [
         {
             "id": 1,
-            "question": "Que día y mes del 2022 Colombia celebra elecciones presidenciales?",
-            "option_one": "30 de mayo",
-            "option_two": "15 de Junio",
-            "option_three": "29 de mayo",
-            "option_four": "13 de Julio",
-            "correct_option": 3
+            "question": "A que país China le proporcionará 5 millones de yuanes en asistencia humanitaria?",
+            "option_one": "Afganistán",
+            "option_two": "Venezuela",
+            "option_three": "Yemen",
+            "option_four": "Ucrania",
+            "correct_option": 4
            
         },
         {
