@@ -2,21 +2,21 @@
     "result": [
         {
             "id": 1,
-            "question": "Como se llama la variante del covid-19 que combina delta y ómicron?",
-            "option_one": "Omicron Alfa",
-            "option_two": "Deltacron",
-            "option_three": "Variante Z",
-            "option_four": "Deltaron",
-            "correct_option": 2
+            "question": "Que día y mes del 2022 Colombia celebra elecciones presidenciales?",
+            "option_one": "30 de mayo",
+            "option_two": "15 de Junio",
+            "option_three": "29 de mayo",
+            "option_four": "13 de Julio",
+            "correct_option": 3
            
         },
         {
             "id": 2,
-            "question": "Como se llama el nuevo presidente de Chile?",
-            "option_one": "Gabriel Boric",
-            "option_two": "Orlando Pepas",
-            "option_three": "Gustavo Petro",
-            "option_four": "José Antonio Kast",
+            "question": "En que día y mes del 2022 Brasil celebra elecciones presidenciales?",
+            "option_one": "2 de Octubre",
+            "option_two": "10 de diciembre",
+            "option_three": "29 de mayo",
+            "option_four": "31 de noviembre",
             "correct_option": 1
            
         },
@@ -28,16 +28,6 @@
             "option_three": "EE.UU",
             "option_four": "España",
             "correct_option": 4
-           
-        },
-        {
-            "id": 4,
-            "question": "Que expresidente del Perú mando a esterilizar forzadamente a las mujeres?",
-            "option_one": "Martín Vizcarra",
-            "option_two": "Alberto Kenya Fujimori Inomoto",
-            "option_three": "Juan Velasco Alvarado",
-            "option_four": "Augusto B. Leguía",
-            "correct_option": 2
            
         }
     ]
