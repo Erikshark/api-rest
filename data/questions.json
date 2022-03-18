@@ -2,12 +2,12 @@
     "result": [
         {
             "id": 1,
-            "question": "A que país China le proporcionará 5 millones de yuanes en asistencia humanitaria?",
-            "option_one": "Afganistán",
-            "option_two": "Venezuela",
-            "option_three": "Yemen",
-            "option_four": "Ucrania",
-            "correct_option": 4
+            "question": "En que país la surcoreana LG suspendio sus suministros?",
+            "option_one": "España",
+            "option_two": "Rusia",
+            "option_three": "Portugal",
+            "option_four": "Irán",
+            "correct_option": 2
            
         },
         {
