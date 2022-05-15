@@ -2,21 +2,21 @@
     "result": [
         {
             "id": 1,
-            "question": "En que país la surcoreana LG suspendio sus suministros?",
-            "option_one": "España",
-            "option_two": "Rusia",
-            "option_three": "Portugal",
-            "option_four": "Irán",
+            "question": "A que país pertenece la ciudad Mariupol?",
+            "option_one": "Francia",
+            "option_two": "Ucrania",
+            "option_three": "Peru",
+            "option_four": "Cuba",
             "correct_option": 2
            
         },
         {
             "id": 2,
-            "question": "En que día y mes del 2022 Brasil celebra elecciones presidenciales?",
-            "option_one": "2 de Octubre",
-            "option_two": "10 de diciembre",
-            "option_three": "29 de mayo",
-            "option_four": "31 de noviembre",
+            "question": "Que red social compro Elon Musk?",
+            "option_one": "Twitter",
+            "option_two": "Facebook",
+            "option_three": "Omegle",
+            "option_four": "Vk",
             "correct_option": 1
            
         },
